@@ -17,3 +17,5 @@ services:
         value: PH Remittance Rates API
       - key: APP_VERSION
         value: "1.0.0"
+      - key: CORS_ORIGINS
+        value: '["*"]'
